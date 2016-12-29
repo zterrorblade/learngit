@@ -5,3 +5,4 @@ test git push!
 on the master branch.
 leave finger though --no-ff.
 now git stash test finished. 
+test remote origin dev
