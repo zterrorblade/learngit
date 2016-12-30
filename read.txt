@@ -1,8 +1,0 @@
-git is a distribuded version control system.
-git is a free software under the GPL.
-git has a mutable index called stage.
-test git push!
-on the master branch.
-leave finger though --no-ff.
-now git stash test finished. 
-test remote origin dev
